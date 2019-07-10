@@ -23,12 +23,14 @@ body{
     background-color: burlywood;
     text-align: center;
     color: white;
+
 }
 
 #profile-image{
-    width: 50%;
-    height:50%;
-    image-rendering: center;
+    width: 20%;
+    height:20%;
+    
+
 
 }
 
